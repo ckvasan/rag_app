@@ -4,6 +4,7 @@ To start to work with :
 - Clone the repository
 - Open the repository in VSCode
 - Set the python environment and activate
+- Update the API's key's in .env file
 - Install the dependencies (pip install -r requirements.txt)
 - Run the app.py
 
