@@ -10,5 +10,7 @@ To start to work with :
 
   ================================================================================================================================
   
-- Once the app is succeffuly started
-- Go to your browser and hit url : http://localhost:5560/docs, you can see the SWAGGER based UI to invoke the RAG app 
+- Once the app is successfully started
+- Go to your browser and hit url : http://localhost:5560/docs, you can see the SWAGGER based UI to invoke the RAG app
+- There is an  endpoint (POST/llm),you can prompt input in question text
+- Note : LLM built is history aware 
